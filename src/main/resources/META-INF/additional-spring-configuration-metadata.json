@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "web-api-server.jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'web-api-server.jwt.secret'"
+  },
+  {
+    "name": "web-api-server.jwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'web-api-server.jwt.expiration'"
+  }
+]}
